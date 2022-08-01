@@ -1,0 +1,22 @@
+{
+  "name": "Нямушка",
+  "tagline": "Сказочное заморское яство",
+  "flavors": {
+      "foieGras": {
+          "flavorName": "с фуа-гра",
+          "flavorDescription": "Печень утки разварная с артишоками.",
+          "isAvailable": true
+      },
+      "fish": {
+          "flavorName": "с рыбой",
+          "flavorDescription": "Головы щучьи с чесноком да свежайшая сёмгушка.",
+          "isAvailable": true
+      },
+      "chicken": {
+          "flavorName": "с курой",
+          "flavorDescription": "Филе из цыплят с трюфелями в бульоне.",
+          "isAvailable": false
+      }
+  },
+  "weight": [0.5, 2, 5]
+}

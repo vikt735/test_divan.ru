@@ -1,0 +1,17 @@
+body {
+  margin: 0 auto;
+  font-family: 'Exo 2', sans-serif;
+  box-sizing: border-box;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.5)), url('../img/Pattern.png');
+  height: 100%;
+  width: 100%;
+
+}
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
